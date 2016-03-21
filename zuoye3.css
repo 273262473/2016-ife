@@ -1,0 +1,56 @@
+
+		.task3{
+			padding: 20px;
+			background:  #eee;
+			border: 1px solid #999;
+		}
+		.clearfix:after{
+			content: ".";
+			display: block;
+			clear: both;
+			height: 0;
+			overflow: hidden;
+			visibility: hidden;
+		}
+		.clearfix{
+			zomm:1;
+		}
+		.team{
+			float: left;
+			width: 200px;
+			height: 120px;
+			margin-right: 20px;
+			background: white;
+			border: 1px solid #999;
+		}
+		.team-logo{
+			width: 80px;
+			height: 80px;
+			margin:20px;
+			float: left;
+			background: #eee;
+
+		}
+		.main{
+			overflow: hidden;
+			border: 1px solid #999;	
+			font-size: 20px;
+			line-height: 32px;
+		}
+		.side{
+			float: right;
+			height: 420px;
+			width: 120px;
+			margin-left: 20px;
+			background: white;
+		}
+		.side-list{
+			list-style:none;
+			padding: 0px;
+		}
+		.side-list li{
+			width: 80px;
+			height: 80px;
+			margin:20px;
+			background: #eee;
+		}
