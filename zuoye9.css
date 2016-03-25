@@ -28,7 +28,7 @@ html,body{
 .clearlf.clearfix{
 	zomm:1;
 }
-.m-perlst .u-sdico,.m-verlst .u-sdico,.time3 .tm3ico.per-ico,.m-sec1 .chanico,.g-hd .logo,.g-hd span{
+.clockico,.m-perlst .u-sdico,.m-verlst .u-sdico,.m-sec1 .chanico,.g-hd .logo,.g-hd span{
 	background: url("picture/task9/sprite.png") no-repeat  9999px 9999px;
 }
 /* 顶栏 */
@@ -297,7 +297,7 @@ html,body{
 	line-height: 60px;
 	text-indent: 60px;
 }
-.m-sec2 .time3 .tm3ico{
+.m-sec2 .clockico{
 	position: absolute;
 	display: inline-block;
 	top: 15px;
